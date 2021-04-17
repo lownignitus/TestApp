@@ -1,0 +1,12 @@
+## Interface: 90002
+## Title: |cff00ff00test app|r
+## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
+## Version: |cffFF45001.0.0|r
+## X-Date: 2020/12/5
+## X-Website: https://github.com/lownignitus/iLvLr
+## X-Contact: https://twitter.com/lownignitus
+## Notes: Tool to help get info
+## Dependancies:
+## SavedVariablesPerCharacter: 
+
+TestApp.lua
